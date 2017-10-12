@@ -1,0 +1,2 @@
+potato create a branch_potato
+potato branch commit 1
