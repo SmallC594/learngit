@@ -3,3 +3,4 @@ potato branch commit 1
 chen	branch commit 1
 merge_branch add 1
 merge_branch add 2
+merge_branch add 3
