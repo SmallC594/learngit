@@ -4,3 +4,4 @@ chen	branch commit 1
 merge_branch add 1
 merge_branch add 2
 merge_branch add 3
+rebase_branch add 1
